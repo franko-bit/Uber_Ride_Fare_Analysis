@@ -10,7 +10,7 @@ Uber-Fare-Project/
 
 cleaned_data/ # Contains the cleaned dataset
 
-reports/ # Final PDF report 
+reports/ # Final md report 
 
 visualscreenshoot/ # Screenshots of Power BI and chart visuals
 
