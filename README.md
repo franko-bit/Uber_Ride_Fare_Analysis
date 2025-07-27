@@ -7,14 +7,14 @@ This project looks at Uber ride data. We cleaned the data, studied it, made visu
 ## Project Folders
 
 Uber-Fare-Project/
-│
-├── cleaned_data/ # Contains the cleaned dataset
-│
-├── reports/ # Final PDF report 
-│
-├── visualscreenshoot/ # Screenshots of Power BI and chart visuals
-│
-└── README.md # This file
+
+cleaned_data/ # Contains the cleaned dataset
+
+reports/ # Final PDF report 
+
+visualscreenshoot/ # Screenshots of Power BI and chart visuals
+
+README.md # This file
 
 
 ---
@@ -29,14 +29,14 @@ Uber-Fare-Project/
 
 ---
 
-## 🔗 Power BI Dashboard
+## Power BI Dashboard
 
 You can view the full Power BI report here:  
-👉 [Power BI Dashboard](https://drive.google.com/file/d/1TEcexJ8JENinnN_Kmr6shO_fdwcDDPJu/view?usp=sharing)
+[Power BI Dashboard](https://drive.google.com/file/d/1TEcexJ8JENinnN_Kmr6shO_fdwcDDPJu/view?usp=sharing)
 
 ---
 
-## 📊 What We Did
+## What We Did
 
 1. Data Cleaning – Removed missing or incorrect values
 2. Feature Engineering – Added new time columns like hour, day, and month
