@@ -74,7 +74,7 @@ The Power BI dashboard includes the following:
 
 ---
 
-## ✅ 5. Business Recommendations
+## 5. Business Recommendations
 
 - Apply dynamic pricing during busy hours.
 - Add more drivers near high-demand areas.
@@ -83,7 +83,7 @@ The Power BI dashboard includes the following:
 
 ---
 
-## 📚 Folder Structure
+## Folder Structure
 
 ```bash
 ├── cleaned_data/           # Cleaned dataset (CSV)
