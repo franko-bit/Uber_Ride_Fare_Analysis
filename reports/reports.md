@@ -1,11 +1,11 @@
-# 🚖 Uber Fare Data Analysis Project
+#  Uber Fare Data Analysis Project
 
 A comprehensive data analysis project exploring Uber ride fare data using **Python (Jupyter Notebooks)** for cleaning and **Power BI** for visualization.  
 The goal is to identify ride patterns, fare distributions, and geographic trends to support business decisions.
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Understand fare amount distribution and ride behavior.
 - Identify time-based and location-based ride trends.
@@ -13,7 +13,7 @@ The goal is to identify ride patterns, fare distributions, and geographic trends
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Data Source**: Kaggle Uber Dataset  
 - **Data Cleaning**: Python (Pandas, NumPy in Jupyter Notebook)  
@@ -21,9 +21,9 @@ The goal is to identify ride patterns, fare distributions, and geographic trends
 
 ---
 
-## 🧹 1. Data Preparation
+##  1. Data Preparation
 
-### ✅ Steps Taken:
+###  Steps Taken:
 - Removed missing or incorrect values.
 - Converted date/time columns into proper datetime format.
 - Extracted hour, weekday, and month from timestamp.
@@ -32,7 +32,7 @@ The goal is to identify ride patterns, fare distributions, and geographic trends
 
 ---
 
-## 📈 2. Exploratory Data Analysis (EDA)
+##  2. Exploratory Data Analysis (EDA)
 
 ### 🔹 Fare Amount Distribution
 - Most fares are under a certain amount (long-tail distribution).
@@ -53,7 +53,7 @@ The goal is to identify ride patterns, fare distributions, and geographic trends
 
 ---
 
-## 📊 3. Power BI Dashboard
+##  3. Power BI Dashboard
 
 The Power BI dashboard includes the following:
 
@@ -61,12 +61,11 @@ The Power BI dashboard includes the following:
 - **Ride Duration Trends**: Time-based charts (hour/day/month)
 - **Time Series Analysis**: Visuals showing ride patterns over time
 - **Geographic Mapping**: Map visual of pickup locations
-- **Filters**: Day of the week, hour of the day, fare range
-- **Drill-down Features**: Click to explore specific time ranges or locations
+
 
 ---
 
-## 📌 4. Key Findings
+##  4. Key Findings
 
 - Most Uber fares are low-priced with a few high-value outliers.
 - Ride volume increases during rush hours and weekends.
@@ -88,7 +87,6 @@ The Power BI dashboard includes the following:
 
 ```bash
 ├── cleaned_data/           # Cleaned dataset (CSV)
-├── notebooks/              # Jupyter Notebook files for data cleaning
-├── powerbi_dashboard.pbix  # Power BI dashboard file
-├── visuals/                # Screenshots of visualizations (optional)
-└── README.md               # Project report (this file)
+├── reports/              
+├── visualscreenshoot/      # Screenshots of visualizations 
+└── README.md               
